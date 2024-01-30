@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a successful full stack developer.
 - 🌱 I’m currently learning more about how to become a full stack developer within UCFs Coding Bootcamp.
 - 💞️ I’m looking to collaborate on coding projects that I can include in my portfolio and to help others build their portfolio too!
-- 📫 How to reach me: [email](joegruff16@gmail.com) or [linkedin](https://www.linkedin.com/in/joseph-ruff-gary0316/).
+- 📫 How to reach me: [email](mailto:joegruff16@gmail.com) or [linkedin](https://www.linkedin.com/in/joseph-ruff-gary0316/).
 - ⚡ Fun fact: I love coffee and especially studying at coffee shops. It's my dream to one day become a freelancer or a remote developer where I would get to work fulltime from random coffee shops.
 
 <!---
